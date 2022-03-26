@@ -1,0 +1,174 @@
+.banner{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(bg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.navbar{
+width: 95%;
+margin: 50;
+padding: 25px 0;
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+}
+.logo{
+    width: 18%;
+    padding-left: 3%;
+    padding-top: 0%;
+}
+body{
+    margin: 0%;
+    overflow-y: scroll;
+    overflow-x: scroll;
+    background-color: rgb(0, 0, 0);
+    
+}
+.click{
+    color: aliceblue;
+    background-color: red;
+    border-radius: 4px;
+    border: 0ch;
+    cursor: pointer;
+    width: 8%;
+    height: 40px;
+    
+
+}
+.lang{
+    width: 8%;
+    margin-left: 62%;
+    height: 40px;
+    border-radius: 4px;
+    border: 0ch;
+    cursor: pointer;
+    
+
+}
+.font1{
+    font-size: 52px;
+    color: aliceblue;
+    padding-left: 30%;
+    font-weight: bold;
+    padding-top: 3%;
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+
+}
+.font2{
+    font-size: 52px;
+    color: aliceblue;
+    padding-left: 33%;
+    font-weight: bold;
+    padding-top: 0.1%;
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+.font3{
+    font-size: 29px;
+    color: aliceblue;
+    padding-left: 36%;
+    font-weight: 500;
+    padding-top: 1%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+
+}
+.font4{
+    font-size: 25px;
+    color: aliceblue;
+    padding-left: 30%;
+    font-weight: lighter;
+    padding-top: 2%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.mailrow{
+    margin: 50;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 25%;
+    padding-right: 25% ;
+    padding-top: 3%;
+
+}
+.mail{
+    padding-left: 30%;
+    width: 65%;
+    height: 42px;
+    padding: 5px 0;
+}
+.start{
+    color: aliceblue;
+    background-color: red;
+    cursor: pointer;
+    width: 35%;
+    height: 55px;
+    padding: 5px 0;
+}
+.secondnav{
+    width: 100%;
+    height: 65vh;
+    background-color: rgb(68, 67, 67);
+    margin: 50;
+    padding: 25px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+br{
+    margin: 0.000001%;
+    background-color: rgb(100, 100, 100);
+}
+.banner2{
+    width: 100%;
+    height: 80vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(bg2.png);
+    background-size: cover;
+    background-position: center;
+}
+.row3{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.b2f1{
+    
+    color: rgb(255, 255, 255);
+    padding-left: 30%;
+
+    font-size: 52px;
+    font-weight: bold;
+    padding-top: 1%;
+    padding-left: 5%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.b2f2{
+       
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 6%;
+    padding-top: 1%;
+}
+
+.but{
+    color: aliceblue;
+    background-color: red;
+    border-radius: 5px;
+    border: 0ch;
+    cursor: pointer;
+    width: 25%;
+    height: 90px;
+    font-size: xx-large;
+    font-weight: bolder; 
+}
+.butali{
+    padding-left: 5%;
+    padding-top: 4%;
+}
